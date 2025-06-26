@@ -21,9 +21,13 @@ Este é um projeto de um sistema de comunicação (chat) em rede, utilizando soc
 
 chat-sockets/
 ├── servidor.py (código do servidor)
+
 ├── cliente.py (código do cliente)
+
 ├── README.md (este arquivo)
+
 └── manual.pdf (manual do sistema em PDF)
+
 
 ---
 
@@ -66,7 +70,7 @@ Envia uma mensagem privada apenas para o usuário especificado.
 ## 🎥 Vídeo Demonstração
 
 O vídeo demonstrando o funcionamento do sistema e a explicação do código por todos os integrantes está disponível no link abaixo:  
-**jaja_upload_video**
+**[Vídeo Tutorial e Explicativo](https://youtu.be/kTgasy9-Im4)**
 
 ---
 
