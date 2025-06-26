@@ -20,6 +20,7 @@ Este é um projeto de um sistema de comunicação (chat) em rede, utilizando soc
 ## 📁 Estrutura do Projeto
 
 chat-sockets/
+
 ├── servidor.py (código do servidor)
 
 ├── cliente.py (código do cliente)
