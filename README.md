@@ -11,7 +11,6 @@ Este é um projeto de um sistema de comunicação (chat) em rede, utilizando soc
 - Mensagens públicas visíveis a todos no chat.
 - Mensagens privadas com o comando `/private`.
 - Comando `/online` para listar os usuários conectados.
-- Suporte ao comando `/quit` para sair do chat.
 - Interface totalmente via terminal (modo texto).
 - Comunicação bidirecional entre cliente e servidor.
 
